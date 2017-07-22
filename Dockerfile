@@ -6,6 +6,6 @@ RUN apk add --no-cache g++ make nodejs && \
     cd /data && bundle && \
     apk del g++ make
 
-EXPOSE 3000
+EXPOSE 3030
 WORKDIR /data
 CMD ["dashing", "start"]
