@@ -1,6 +1,6 @@
 # dashing
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/dashing)
 
 Alpine-based image build with [dashing](http://dashing.io/) dashboard framework
 
